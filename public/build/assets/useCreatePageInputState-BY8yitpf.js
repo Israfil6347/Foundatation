@@ -1,0 +1,1 @@
+import{r as u}from"./app-PNeZ1Cfk.js";const e={slug:"",title:"",base64Attachment:"",shortDescription:"",content:"",publishStatus:"Draft",order:0,image:""},o=()=>{const[a,t]=u.useState(e);return{createPageInputState:a,setCreatePageInputState:t,updateCreatePageInputState:(r,n)=>{t(s=>({...s,[r]:n}))},clearCreatePageState:()=>{t(e)}}},S=o;export{S as u};

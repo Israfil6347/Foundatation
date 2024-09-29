@@ -1,0 +1,1 @@
+import{j as t,Y as i}from"./app-PNeZ1Cfk.js";import{P as m}from"./PublicTemplateLayout-CJozbsGw.js";import"./motion-DUcTn-y-.js";function a({auth:e}){return t.jsx("div",{children:t.jsxs(m,{auth:e,children:[t.jsx(i,{title:"Committee"}),"Committee"]})})}export{a as default};

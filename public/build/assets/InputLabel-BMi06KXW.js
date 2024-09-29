@@ -1,0 +1,1 @@
+import{j as r}from"./app-PNeZ1Cfk.js";function m({value:t,className:e="",children:n,...o}){return r.jsx("label",{...o,className:"block font-medium text-sm text-onSurface "+e,children:t||n})}export{m as I};
